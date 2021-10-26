@@ -1,25 +1,11 @@
-# ✍🏻 GET_NEXT_LINE
+# ✍🏻 Read data from a file descriptor 
 
-🇫🇷   Ce projet a pour but de nous faire coder une fonction renvoyant une ligne terminée par un retour à la ligne lue depuis un descripteur de fichier 
+Get_next_line is the second @42 project. The function allows reading a line ending with a newline character from a file descriptor.
 
-  Ce projet nous permet ainsi d'aborder:
+This project has been the opportunity to dig highly interesting concepts in C programming:
 
-- les variables statiques
-- les allocations
-- la manipulation et le cycle de vie d'un buffer
+- using (one or many) ***static variables***
+- ***allocation*** (from stack or heap memory)
+- manipulation and life cycle of a ***buffer***
 
-[📌 Sujet](https://cdn.intra.42.fr/pdf/pdf/6366/get_next_line.fr.pdf)
-
-
-
----
-
-🇬🇧  The objective of this project is to code a function returning a line (terminated by a "/n") read from a file descriptor
-
-We can therefore approache:
-
-- static variables
-- memory allocation
-- the manipulation and lifecycle of a buffer
-
-[📌 Subject](https://cdn.intra.42.fr/pdf/pdf/3719/get_next_line.en.pdf)
+[📌 Subject](https://cdn.intra.42.fr/pdf/pdf/6366/get_next_line.fr.pdf)
